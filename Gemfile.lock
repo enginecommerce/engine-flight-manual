@@ -35,17 +35,27 @@ GEM
       jekyll (~> 3.3)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
+    just-the-docs (0.2.3)
+      jekyll (~> 3.8.5)
+      rake (~> 12.3.1)
     kramdown (1.17.0)
     liquid (4.0.3)
     listen (3.1.5)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
       ruby_dep (~> 1.2)
+    mdl (0.5.0)
+      kramdown (~> 1.12, >= 1.12.0)
+      mixlib-cli (~> 1.7, >= 1.7.0)
+      mixlib-config (~> 2.2, >= 2.2.1)
     mercenary (0.3.6)
     minima (2.5.0)
       jekyll (~> 3.5)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
+    mixlib-cli (1.7.0)
+    mixlib-config (2.2.18)
+      tomlrb
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (3.0.3)
@@ -61,6 +71,7 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
+    tomlrb (1.2.8)
 
 PLATFORMS
   ruby
@@ -68,6 +79,8 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.8.5)
   jekyll-feed (~> 0.6)
+  just-the-docs (= 0.2.3)
+  mdl
   minima (~> 2.0)
   rake
   tzinfo-data
