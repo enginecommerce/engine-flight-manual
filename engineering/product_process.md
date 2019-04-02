@@ -3,7 +3,7 @@ layout: default
 title: Product Process
 parent: Engineering
 has_children: false
-permalink: /engineering/guides/product-process
+permalink: /engineering/guides/product-process/
 ---
 
 # The Engine Product Process

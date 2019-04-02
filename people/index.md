@@ -2,7 +2,7 @@
 layout: default
 title: People
 has_children: true
-permalink: /people
+permalink: /people/
 ---
 
 # Engine People

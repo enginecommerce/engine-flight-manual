@@ -3,7 +3,7 @@ layout: default
 title: Work Hours
 parent: People
 has_children: false
-permalink: /people/work-hours
+permalink: /people/work-hours/
 ---
 
 # Work Hours

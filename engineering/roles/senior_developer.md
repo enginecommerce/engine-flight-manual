@@ -3,7 +3,7 @@ layout: default
 title: Senior Developer
 parent: Roles & Job Descriptions
 has_children: false
-permalink: /engineering/roles/sr-developer
+permalink: /engineering/roles/sr-developer/
 ---
 
 # Job Description: Engine Senior Developer

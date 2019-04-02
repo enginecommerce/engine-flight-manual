@@ -3,7 +3,7 @@ layout: default
 title: Vacation & Time Off
 parent: People
 has_children: false
-permalink: /people/time-off
+permalink: /people/time-off/
 ---
 
 # Vacations & Time Off

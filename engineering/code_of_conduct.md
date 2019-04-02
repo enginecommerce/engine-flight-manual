@@ -3,7 +3,7 @@ layout: default
 title: Contributor Covenant Code of Conduct
 parent: Engineering
 has_children: false
-permalink: /engineering/guides/code-of-conduct
+permalink: /engineering/guides/code-of-conduct/
 ---
 
 [contributor_covenant_url]: https://www.contributor-covenant.org
