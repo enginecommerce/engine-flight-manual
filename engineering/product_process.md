@@ -11,8 +11,6 @@ permalink: /engineering/guides/product-process/
 
 Use this Table of Contents as a reference. Read it first, and get a good idea of this entire process. Refer back to this remind you of what to do during the steps in the process.
 
-TOC items are clickable, so you can quickly review sections in greater detail.
-
 * **[Product Version Evolution](#product-version-evolution)**
   * [Assemble a Product Steering Team](#assemble-a-product-steering-team)
 * **[Production Phases](#production-phases)**
@@ -34,9 +32,9 @@ TOC items are clickable, so you can quickly review sections in greater detail.
 
 ## Section Summary
 
-<mark>Ideas are cheap and turning ideas into a meaningful, profitable business is hard.</mark>
+<mark>Ideas are cheap. Turning ideas into a meaningful, profitable business is hard.</mark>
 
-Always think of Engine products as versions of product evolution – some features are appropriate for the current version, and some are appropriate for later versions. What we do to evolve each Version is largely the same, but in any case, you must assign responsibility to a Product Steering Team to get started.
+Always think of Engine products as versions along a timeline of the product's evolution – some features are appropriate for the current version, and some are appropriate for a later version. The process of evolution is largely the same, but in any case you must assign responsibility to a Product Steering Team to get started.
 
 ---
 
