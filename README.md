@@ -41,7 +41,7 @@ The entry content file is index.md.
 
 ## Format
 
-This repo uses [Kramdown][kramdown_url]. It looks like [Github Flavored Markdown][github_flavored_markdown_url], but it allows you to also use <em>HTML tags</em> because we think HTML is still useful.
+This repo uses [Kramdown][kramdown_url]. It looks like [Github Flavored Markdown][github_flavored_markdown_url], but it allows you to also use <mark>HTML tags</mark> because we think HTML is still useful.
 
 ## Running Locally
 

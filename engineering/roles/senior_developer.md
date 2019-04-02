@@ -22,7 +22,7 @@ permalink: /engineering/roles/sr-developer/
 
 To Engine Developers, you are a mentor of good development practices, a source of domain knowledge, and a triage artist for overly-complex projects. To Engine Project Managers, you are a source of pre-planning wisdom from hard-won trench experience. You are not a lone hero/heroine, but a leader who helps others perform at their best.
 
-<em>You do your job best 1) when you make yourself available to other developers to pair and solve problems, 2) when you set aside time twice daily to review and make best-practice recommendations on Pull Requests, and 3) when you bring suggestions for architecture and process changes.</em>
+<mark>You do your job best 1) when you make yourself available to other developers to pair and solve problems, 2) when you set aside time twice daily to review and make best-practice recommendations on Pull Requests, and 3) when you bring suggestions for architecture and process changes.</mark>
 
 You may personally feel like you’re not getting enough done because you will often not be the one committing code; however, through this you will gain exposure to our codebase and will help developers avoid costly mistakes. With your help, our teams and our practices will improve.
 

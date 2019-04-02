@@ -36,7 +36,7 @@ TOC items are clickable, so you can quickly review sections in greater detail.
 
 ### Section Summary
 
-<em>**Ideas are cheap and turning ideas into a meaningful, profitable business is hard.**</em>
+<mark>Ideas are cheap and turning ideas into a meaningful, profitable business is hard.</mark>
 
 Always think of Engine products as versions of product evolution – some features are appropriate for the current version, and some are appropriate for later versions. What we do to evolve each Version is largely the same, but in any case, you must assign responsibility to a Product Steering Team to get started.
 
@@ -48,7 +48,7 @@ With each evolution of the product, a Product Steering Team should be assembled 
 
 * **An Appointed Decider For the Product**
 
-  The Decider owns the success or failure of the product launch. <em>The Decider is the ultimate holder and arbiter of features and deadlines.</em> They say things like, "The problem we need to solve is {this}," "That’s a feature for the next version," or "Cut {feature} in order to ship by {date}."
+  The Decider owns the success or failure of the product launch. <mark>The Decider is the ultimate holder and arbiter of features and deadlines.</mark> They say things like, "The problem we need to solve is {this}," "That’s a feature for the next version," or "Cut {feature} in order to ship by {date}."
 
 * **A Project Manager**
 
