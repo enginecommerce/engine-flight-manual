@@ -11,9 +11,9 @@ permalink: /engineering/roles/sr-developer/
 
 ---
 
-###### On this page
+On this page
 
-* [Your Job Is...](#your-job-is)
+* [Your Job Is](#your-job-is)
   * [Daily](#daily)
   * [Weekly/Bi-Weekly](#weeklybi-weekly)
   * [Per Project Phase](#per-project-phase)
@@ -21,7 +21,7 @@ permalink: /engineering/roles/sr-developer/
 
 ---
 
-## Your Job Is...
+## Your Job Is
 
 To Engine Developers, you are a mentor of good development practices, a source of domain knowledge, and a triage artist for overly-complex projects. To Engine Project Managers, you are a source of pre-planning wisdom from hard-won trench experience. You are not a lone hero/heroine, but a leader who helps others perform at their best.
 

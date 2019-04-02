@@ -14,9 +14,9 @@ permalink: /engineering/roles/developer/
 
 ---
 
-###### On this page
+On this page
 
-* [Your Job Is...](#your-job-is)
+* [Your Job Is](#your-job-is)
   * [Daily](#daily)
   * [Weekly/Bi-Weekly](#weeklybi-weekly)
   * [Per Project Phase](#per-project-phase)
@@ -24,7 +24,7 @@ permalink: /engineering/roles/developer/
 
 ---
 
-## Your Job Is...
+## Your Job Is
 
 You are the caped hero or heroine to our clients and the creator of things that do not yet exist. By keeping an optimistic view and an accessible, teachable attitude, you will deliver features and projects on time and help non-technical users navigate the unfamiliar waters of custom software.
 

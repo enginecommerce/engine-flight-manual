@@ -1,15 +1,13 @@
 ---
 layout: default
 title: Product Process
+subhead: "Going static for beginners – with free template!"
 parent: Engineering
 has_children: false
 permalink: /engineering/guides/product-process/
 ---
 
-# The Engine Product Process
-## From Idea to Launch
-
----
+{% include page_header.html title="The Engine Product Process" subhead="How Products are Created, From Concept to Launch"%}
 
 Use this Table of Contents as a reference. Read it first, and get a good idea of this entire process. Refer back to this remind you of what to do during the steps in the process.
 
@@ -31,10 +29,10 @@ TOC items are clickable, so you can quickly review sections in greater detail.
     * [Evolution Planning](#evolution-planning)
 
 ---
-
-## Product Version Evolution
 
-### Section Summary
+# Product Version Evolution
+
+## Section Summary
 
 <mark>Ideas are cheap and turning ideas into a meaningful, profitable business is hard.</mark>
 
@@ -42,7 +40,7 @@ Always think of Engine products as versions of product evolution – some featur
 
 ---
 
-### Assemble a Product Steering Team
+## Assemble a Product Steering Team
 
 With each evolution of the product, a Product Steering Team should be assembled in order to steer the scope and effort of development. These members should remain steering members throughout the duration of the product version.
 
@@ -68,15 +66,15 @@ With each evolution of the product, a Product Steering Team should be assembled 
 
 ---
 
-## Production Phases
+# Production Phases
 
-### Section Summary
+## Section Summary
 
 Production happens in Phases. The Phases begin with Discovery, then they create user-tested prototypes before any software is written, they develop a product to specifications, they launch a product into the hands of an intentional number of users, and they end with user tests and feedback to inform and plan the future evolution of the Product.
 
 Note on "Later:" "We'll figure that out later" is a bad smell. It means this step is not complete. Grab a marker and paper and figure it out. It is much easier to grab a marker and solve the problem now than it is to do it in hours of work, millions of pixels, and thousands of lines of layout code later while using prototyping tools.
 
-#### Contents
+### Contents
 
 * Phase 1: Discovery
 * Phase 2: Prototype
@@ -85,42 +83,42 @@ Note on "Later:" "We'll figure that out later" is a bad smell. It means this ste
 
 ---
 
-### Phase 1: Discovery
+## Phase 1: Discovery
 
 Discovery is broken into Research and Design. Use this phase to erase preconceptions about implementations and gather real data to support or change decisions. Do research to confirm hunches and assumptions.
 
-#### Research
+### Research
 
-##### Perform the following exercises:
+#### Perform the following exercises
 
 * Gather support data from interviews, surveys, or historical data
 * Perform secondary (already available data) research
 * Compare features with competitors, create a differentiator, avoid copycat syndrome
 
-##### Answer the following questions about the...
+#### Answer the following questions
 
-* Problem
+* About the Problem
   * What problem are we solving?
   * Which personas are we solving this problem for?
   * Is this problem shared by a significant number of [ customers / people in the world ]?
   * What technology/devices does our audience currently use most to address this problem?
   * How will solving this problem make the [money / difference] our business needs?
   * How would we solve this problem without writing any code?
-* Solution
+* About the Solution
   * What goods and services does our solution have to displace for success?
   * Does this already exist? Did this exist? Why doesn't this exist today?
   * Does anybody want this solution, how many people want this solution, how much will they pay
   * Is it easy for a customer to understand the ROI of this product?
   * What does it cost us to acquire a customer?
   * What technology/devices would our audience use most to address this problem?
-* Implementation
+* About the Implementation
   * **What is the 20% implementation of this idea that can produce 80% of what we want?**
-* Measuring Success
+* About Measuring Success
   * Define metrics that would indicate the success of this project
   * Define how these metrics will be measured and recorded
   * Set goals within these metrics to define how successful the feature/product is
 
-##### Create a 60-Second Pitch for the Product Version
+#### Create a 60-Second Pitch for the Product Version
 
 Together with the product owners, write a 60 second pitch to be shared with the team.
 
@@ -128,11 +126,11 @@ Always keep this pitch top-of-mind, in order to guide the project. If the verbia
 
 Investigate, communicate, and set realistic expectations around what has been adjusted.
 
-##### Completion
+#### Completion
 
 Research is complete when the Decider determines that a 20%-effort solution can be made to meet 80% of the researched problem.
 
-#### Story Creation
+### Story Creation
 
 In plain English, explain how this evolution of our product will solve problems. These phrases should address how we solve the business problem; they should not describe button behaviors, etc. They will help us avoid "seeing a roach and grabbing a sledge hammer."
 
@@ -145,7 +143,7 @@ Journal and categorize stories as
 * Current Feature
 * Future Feature
 
-##### Good Examples:
+#### Good Examples
 
 * From Engine Mail
   * A Shopify Customer can be reminded via responsive email of a product they have recently viewed
@@ -159,20 +157,21 @@ Journal and categorize stories as
   * An Engine Customer can cancel a subscription
   * Future Feature: An Engine Customer can manage subscriptions via a native phone app
 
-##### Bad Examples:
+#### Poor Examples
+
 Basically build {competitor 1}, {competitor 2}, or {competitor 3}
 Just add a button here, and then we'll see how it works
 Execute what our designers come up with
 
-##### Completion
+#### Completion
 
 Story creation is complete when the Decider determines the stories, as-written, sufficiently address the problem with a realistic solution.
 
-### Phase 2: Prototype
+## Phase 2: Prototype
 
-#### Development
+### Development
 
-##### Make & Iterate Pen-and-Paper Wireframes
+#### Make & Iterate Pen-and-Paper Wireframes
 
 * Assemble the team and review great solutions from other companies
 * Each person takes notes on their own and takes a little time to capture what they like in quick drawings
@@ -182,38 +181,38 @@ Story creation is complete when the Decider determines the stories, as-written, 
 
 _**Note for remote teams:** use pen-and-paper, just like everybody else, then take photos of the wireframe drawings, collect them using Invisionapp.com, and share them with the Decider for review._
 
-##### Make & Iterate a Single, Complete Software Wireframe
+#### Make & Iterate a Single, Complete Software Wireframe
 
 * The UX Developer and Designer create low-fidelity wireframes of all views, forms, buttons, etc. that will be used.
 * Spend no time at all making these wireframes look pretty. The wireframes should only inform needed elements and potential layout. Create wireframes for mobile (when needed) and desktop.
 * Iterate with the Decider and consult senior development until the business problem is fully addressed by a realistically-buildable wireframe solution
 
-##### Make & Iterate Mocks
+#### Make & Iterate Mocks
 
 * The Designer creates a very small handful of key mocks to illustrate general appearance, button styles, information displays, modal styles, etc.
 * Iterate mocks for look and feel until the Decider is appeased; these look-and-feel mocks will influence every page of the UX prototype
 
-##### Make & Iterate a Single, Complete, Clickable Prototype
+#### Make & Iterate a Single, Complete, Clickable Prototype
 
 * Create a clickable Prototype sufficient for an anonymous user to walk through, critique, and approve during anonymous testing via maze.design, usertesting.com, or similar
 * Iterate the prototype until the Product Steering Team is satisfied and tests produce the results desired; then it's time to write some code
 
-##### Completion
+#### Completion
 
 Completion is achieved when all Product Steering Team divisions of responsibility are satisfied by a clickable prototype, which may be referenced by the development phase.
 
-### Phase 3: Development
+## Phase 3: Development
 
-#### Software
+### Software
 
-##### Plan the Software (and Spike When Necessary)
+#### Plan the Software (and Spike When Necessary)
 
 * The Decider, PM, and senior development team will plan and journal the use of technology on-hand, technology to-be-built, and the time required to execute.
 * Assemble an appropriately-sized engineering team to execute the stories
 
 _**Note on "Spikes:"** It may be necessary to prove a new software concept in an untested "Spike" or a proof-of-concept. These software Spikes are never to be intended for production use, but they may be necessary to gauge realistic development timelines._
 
-##### Execute the Software
+#### Execute the Software
 
 * The PM, Decider, and Project Senior Engineers will meet weekly to review progress and velocity toward meeting deadlines
 * The PM and engineering team will meet daily in standups
@@ -222,28 +221,28 @@ _**Note on "Spikes:"** It may be necessary to prove a new software concept in an
 
 _**Note on deadlines:** in the case of looming deadlines, when software feature completion is in doubt, feature triage should be performed at the direction of the Decider. It is the PM's job to accurately inform the Decider of velocity and progress. It is the Decider's responsibility to balance our ability against our business priorities._
 
-##### Quality Assurance
+#### Quality Assurance
 
 * Features must be tested in as close to a production environment as possible for their intended effect
 * A feature cannot be considered complete until the Decider and designated Senior Engineer have approved of the quality of operation
 
-##### Completion
+#### Completion
 
 Development is concluded when stories that describe our 20/80-solution are complete as-described, tested, and work in production to the satisfaction of the Decider.
 
-#### Go-to-Market
+### Go-to-Market
 
-##### Plan the Go-to-Market
+#### Plan the Go-to-Market
 
 * The Decider and senior sales/marketing team will develop a go-to-market plan
 
-##### Develop Go-to-Market Materials
+#### Develop Go-to-Market Materials
 
 * The sales/marketing team will develop sales/marketing materials while software development is underway
 
-### Phase 4: Launch
+## Phase 4: Launch
 
-#### Measurement
+### Measurement
 
 We are ready to launch a product when we are ready to measure its success or failure.
 
@@ -251,7 +250,7 @@ We are ready to launch a product when we are ready to measure its success or fai
 * Execute the go-to-market plan
 * Measure and examine real-world usage against our product assumptions
 
-#### Evolution Planning
+### Evolution Planning
 
 Congratulations! You have launched a product evolution. Now it's time to take a breath and take your measurements into the next evolution.
 

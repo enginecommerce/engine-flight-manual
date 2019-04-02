@@ -1,0 +1,15 @@
+{% assign include_title = page.title %}
+{% assign include_subhead = page.subhead %}
+
+{% if include.title %}
+  {% assign include_title = include.title %}
+{% endif %}
+
+{% if include.subhead %}
+  {% assign include_subhead = include.subhead %}
+{% endif %}
+
+<header class="page-title-layout">
+  <h1 class="page-title">{{ include_title }}</h1>
+  <p class="page-title-subhead">{{ include_subhead }}</p>
+</header>

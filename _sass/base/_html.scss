@@ -1,0 +1,79 @@
+::selection {
+  color: #fff;
+  background: $highlight-color;
+}
+
+html,
+body {
+  font: normal normal 16px/1.5 Nunito, sans-serif;
+}
+
+a {
+  &,
+  &:link,
+  &:link:visited,
+  &:visited:active {
+    color: $link-color;
+  }
+}
+
+h1,
+h2,
+h3 {
+  font-family: Poppins, sans-serif;
+  line-height: 1.16;
+}
+
+h1 {
+  color: $title1-color;
+  font-size: 50px;
+  font-weight: 600;
+}
+
+h2 {
+  color: $title2-color;
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 1.05;
+}
+
+h3 {
+  color: $title3-color;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.125;
+  letter-spacing: 0.03125rem;
+}
+
+h4 {
+  color: $title4-color;
+  font-size: 1.25rem;
+  font-weight: 700;
+  line-height: 1.4;
+}
+
+h5 {
+    color: $title5-color;
+    letter-spacing: 0.125rem;;
+    font-size: 1.142857143rem;
+    line-height: 1.857142857;
+    font-weight: 700;
+    letter-spacing: .1875rem;
+    text-transform: uppercase;
+}
+
+h6 {
+    color: $title6-color;
+    letter-spacing: 0.03125rem;
+    font-size: 0.875rem;
+    line-height: 1.5625;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+mark {
+  margin-left: -0.25em;
+  margin-right: -0.25em;
+  padding-left: 0.25em;
+  padding-right: 0.25em;
+}

@@ -1,0 +1,20 @@
+.page-title-layout {
+  border-bottom: 1px solid $border-extra-light;
+  margin-bottom: 2rem;
+  padding-bottom: 2rem;
+
+  .page-title {
+    @extend h1;
+
+    margin-bottom: 1rem;
+  }
+
+  .page-title-subhead {
+    font-family: 'Nunito Sans', sans-serif;
+    color: #4f6267;
+    font-size: 22px;
+    line-height: 28px;
+    font-weight: 300;
+    margin: 1rem 0;
+  }
+}
