@@ -26,6 +26,7 @@ end
 
 group :test, :development do
   gem "mdl"
+  gem "scss_lint", "~> 0.57.1"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

@@ -1,26 +1,25 @@
 .table-of-contents-layout {
-  background: rgba(0, 0, 0, 0.05);
+  background: $border-extra-light;
   border-radius: 1rem;
-  padding: 0.5rem 1rem;
+  padding: .5rem 1rem;
 
   h2 {
     margin-bottom: 1rem;
   }
 
-  ul.table-of-contents-list {
-    padding: 0;
+  .table-of-contents-list {
     margin: 0;
+    padding: 0;
 
     >li {
-      @extend h4;
+      @extend %header-4;
 
+      margin: .5rem 0;
       padding: 0;
-      margin: 0.5rem 0;
+    }
 
-
-      &::before {
-        content: none;
-      }
+    >li::before {
+      content: none;
     }
   }
 }

@@ -2,6 +2,7 @@
 [kramdown_url]: https://kramdown.gettalong.org/
 [github_flavored_markdown_url]: https://github.github.com/gfm/
 [markdownlint_url]: https://github.com/markdownlint/markdownlint
+[scss_lint_url]: https://github.com/brigade/scss-lint
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 136.4 43" style="width: 30em;">
   <g id="Shapes">
@@ -56,12 +57,18 @@ bundle exec jekyll serve
 
 ### Lint
 
-This repo uses [Markdownlint][markdownlint_url]. Configurations are stored in the `.mdlrc` file at the root of this repo.
+This repo uses [Markdownlint][markdownlint_url] and [scss-lint][scss_lint_url].
 
-After editing, perform the following to check your work against our markdown guidelines:
+After editing, perform the following to check your work against our guidelines:
 
 Run Markdown Linter, making sure to include a directory argument.
 
 ```bash
 bundle exec mdl .
+```
+
+Run `scss-lint` with rake
+
+```bash
+bundle exec rake
 ```

@@ -1,0 +1,50 @@
+
+%header-1 {
+  color: $title1-color;
+  font-size: 50px;
+  font-weight: 600;
+}
+
+%header-2 {
+  color: $title2-color;
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 1.05;
+}
+
+%header-3 {
+  color: $title3-color;
+  font-size: 2.5rem;
+  font-weight: 700;
+  letter-spacing: .03125rem;
+  line-height: 1.125;
+}
+
+%header-4 {
+  color: $title4-color;
+  font-size: 1.25rem;
+  font-weight: 700;
+  line-height: 1.4;
+}
+
+%header-5 {
+  color: $title5-color;
+  font-size: 1.142857143rem;
+  font-weight: 700;
+  letter-spacing: .1875rem;
+  line-height: 1.857142857;
+  text-transform: uppercase;
+}
+
+%header-6 {
+  color: $title6-color;
+  font-size: .875rem;
+  font-weight: 400;
+  letter-spacing: .03125rem;
+  line-height: 1.5625;
+  text-transform: uppercase;
+}
+
+%page-title {
+  @extend %header-1;
+}

@@ -1,5 +1,5 @@
 .side-bar {
-  background-color: #192730;
+  background-color: $background-dark;
 }
 
 .site-title {
@@ -9,7 +9,7 @@
   background-repeat: no-repeat;
   background-size: contain;
   border-color: transparent;
-  color: #fff;
+  color: $text-inverted;
   overflow: hidden;
   text-align: left;
   text-indent: 9000rem;

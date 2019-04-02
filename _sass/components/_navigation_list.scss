@@ -1,72 +1,60 @@
-.navigation-list {
-  .navigation-list-item {
+.navigation-list-link {
+  &,
+  &:link,
+  &:link:visited,
+  &:visited:active {
+    color: $text-inverted;
+    font-size: .875rem;
+    font-style: normal;
+    font-weight: 300;
+    margin: 0;
+    padding: .5rem .667rem;
+    transition: background-color 300ms;
 
-    a.navigation-list-link {
-
-      &,
-      &:link,
-      &:link:visited,
-      &:visited:active {
-        color: $text-inverted;
-        font-style: normal;
-        font-weight: 300;
-        font-size: 0.875rem;
-        margin: 0;
-        padding: 0.5rem 0.667rem;
-
-        transition: background-color 300ms;
-
-        &:hover,
-        &.active,
-        &.active:hover {
-          background-color: $highlight-inverted;
-        }
-
-        &:empty {
-          padding: 0;
-        }
-      }
+    &:hover,
+    &.active,
+    &.active:hover {
+      background-color: $highlight-inverted;
+      color: $text-inverted;
     }
 
-    .navigation-list-child-list {
+    &:empty {
       padding: 0;
-
-      .navigation-list-item {
-        &::before {
-          position: absolute;
-          margin-top: 0.3em;
-          margin-left: -0.8em;
-          color: #959396;
-          content: "";
-        }
-
-        a.navigation-list-link {
-
-          &,
-          &:link,
-          &:link:visited,
-          &:visited:active {
-            padding-left: 2em;
-            font-weight: 200;
-            font-size: .9em;
-            color: #bbb;
-          }
-        }
-      }
-
-      .navigation-list-child-list {
-        .navigation-list-item {
-          a.navigation-list-link {
-
-            &,
-            &:link,
-            &:link:visited,
-            &:visited:active {
-              padding-left: 4em;
-            }
-          }
-        }
-      }
     }
+  }
+}
+
+.navigation-list-child-list {
+  padding: 0;
+
+  .navigation-list-item {
+    &::before {
+      content: '';
+    }
+
+    .navigation-list-link,
+    .navigation-list-link:link,
+    .navigation-list-link:link:visited,
+    .navigation-list-link:visited:active {
+      color: $text-inverted-light;
+      font-size: .9em;
+      font-weight: 200;
+      padding-left: 2em;
+    }
+  }
+
+  .navigation-list-child-list {
+    .navigation-list-link,
+    .navigation-list-link:link,
+    .navigation-list-link:link:visited,
+    .navigation-list-link:visited:active {
+      padding-left: 4em;
+    }
+  }
+}
+
+.navigation {
+  @media (min-width: 46.25rem) {
+    padding-right: 0;
   }
 }
