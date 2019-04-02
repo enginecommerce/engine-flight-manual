@@ -1,0 +1,16 @@
+{
+  "name": "engine-flight-manual",
+  "scripts": {},
+  "env": {},
+  "formation": {},
+  "addons": [],
+  "buildpacks": [
+    {
+      "url": "heroku/ruby"
+    },
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-static"
+    }
+  ],
+  "stack": "heroku-18"
+}
