@@ -48,7 +48,7 @@ With each evolution of the product, a Product Steering Team should be assembled 
 
 * **An Appointed Decider For the Product**
 
-  The Decider owns the success or failure of the product launch. <mark>The Decider is the ultimate holder and arbiter of features and deadlines.</mark> They say things like, "The problem we need to solve is {this}," "That’s a feature for the next version," or "Cut {feature} in order to ship by {date}."
+  The Decider owns the success or failure of the product launch. <mark>The Decider is the ultimate holder and arbiter of features and deadlines.</mark> They say things like, "The problem we need to solve is {this}," "That's a feature for the next version," or "Cut {feature} in order to ship by {date}."
 
 * **A Project Manager**
 
@@ -74,7 +74,7 @@ With each evolution of the product, a Product Steering Team should be assembled 
 
 Production happens in Phases. The Phases begin with Discovery, then they create user-tested prototypes before any software is written, they develop a product to specifications, they launch a product into the hands of an intentional number of users, and they end with user tests and feedback to inform and plan the future evolution of the Product.
 
-Note on "Later:" "We’ll figure that out later" is a bad smell. It means this step is not complete. Grab a marker and paper and figure it out. It is much easier to grab a marker and solve the problem now than it is to do it in hours of work, millions of pixels, and thousands of lines of layout code later while using prototyping tools.
+Note on "Later:" "We'll figure that out later" is a bad smell. It means this step is not complete. Grab a marker and paper and figure it out. It is much easier to grab a marker and solve the problem now than it is to do it in hours of work, millions of pixels, and thousands of lines of layout code later while using prototyping tools.
 
 #### Contents
 
@@ -108,7 +108,7 @@ Discovery is broken into Research and Design. Use this phase to erase preconcept
   * How would we solve this problem without writing any code?
 * Solution
   * What goods and services does our solution have to displace for success?
-  * Does this already exist? Did this exist? Why doesn’t this exist today?
+  * Does this already exist? Did this exist? Why doesn't this exist today?
   * Does anybody want this solution, how many people want this solution, how much will they pay
   * Is it easy for a customer to understand the ROI of this product?
   * What does it cost us to acquire a customer?
@@ -124,7 +124,7 @@ Discovery is broken into Research and Design. Use this phase to erase preconcept
 
 Together with the product owners, write a 60 second pitch to be shared with the team.
 
-Always keep this pitch top-of-mind, in order to guide the project. If the verbiage of the pitch begins to stray, or if the software doesn’t fulfill the promises of the pitch, then something has been mis-communicated or the goal posts have moved over time.
+Always keep this pitch top-of-mind, in order to guide the project. If the verbiage of the pitch begins to stray, or if the software doesn't fulfill the promises of the pitch, then something has been mis-communicated or the goal posts have moved over time.
 
 Investigate, communicate, and set realistic expectations around what has been adjusted.
 
@@ -161,7 +161,7 @@ Journal and categorize stories as
 
 ##### Bad Examples:
 Basically build {competitor 1}, {competitor 2}, or {competitor 3}
-Just add a button here, and then we’ll see how it works
+Just add a button here, and then we'll see how it works
 Execute what our designers come up with
 
 ##### Completion
@@ -196,7 +196,7 @@ _**Note for remote teams:** use pen-and-paper, just like everybody else, then ta
 ##### Make & Iterate a Single, Complete, Clickable Prototype
 
 * Create a clickable Prototype sufficient for an anonymous user to walk through, critique, and approve during anonymous testing via maze.design, usertesting.com, or similar
-* Iterate the prototype until the Product Steering Team is satisfied and tests produce the results desired; then it’s time to write some code
+* Iterate the prototype until the Product Steering Team is satisfied and tests produce the results desired; then it's time to write some code
 
 ##### Completion
 
@@ -220,7 +220,7 @@ _**Note on "Spikes:"** It may be necessary to prove a new software concept in an
 * The PM, Decider, and engineering team will meet weekly to demo progress
 * Software tests should be written to cover consistent software performance, consistent integration between moving parts, and business-critical user-facing features
 
-_**Note on deadlines:** in the case of looming deadlines, when software feature completion is in doubt, feature triage should be performed at the direction of the Decider. It is the PM’s job to accurately inform the Decider of velocity and progress. It is the Decider’s responsibility to balance our ability against our business priorities._
+_**Note on deadlines:** in the case of looming deadlines, when software feature completion is in doubt, feature triage should be performed at the direction of the Decider. It is the PM's job to accurately inform the Decider of velocity and progress. It is the Decider's responsibility to balance our ability against our business priorities._
 
 ##### Quality Assurance
 
@@ -253,6 +253,6 @@ We are ready to launch a product when we are ready to measure its success or fai
 
 #### Evolution Planning
 
-Congratulations! You have launched a product evolution. Now it’s time to take a breath and take your measurements into the next evolution.
+Congratulations! You have launched a product evolution. Now it's time to take a breath and take your measurements into the next evolution.
 
 Next, see [Product Version Evolution](#step1) above.

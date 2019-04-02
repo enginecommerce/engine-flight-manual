@@ -27,7 +27,7 @@ To Engine Developers, you are a mentor of good development practices, a source o
 
 <mark>You do your job best 1) when you make yourself available to other developers to pair and solve problems, 2) when you set aside time twice daily to review and make best-practice recommendations on Pull Requests, and 3) when you bring suggestions for architecture and process changes.</mark>
 
-You may personally feel like you’re not getting enough done because you will often not be the one committing code; however, through this you will gain exposure to our codebase and will help developers avoid costly mistakes. With your help, our teams and our practices will improve.
+You may personally feel like you're not getting enough done because you will often not be the one committing code; however, through this you will gain exposure to our codebase and will help developers avoid costly mistakes. With your help, our teams and our practices will improve.
 
 ### Daily
 
@@ -51,6 +51,6 @@ You may personally feel like you’re not getting enough done because you will o
 * Assume you will never fully know what it takes to launch feature in production until that feature is launched in production
 * Assume coworkers have made the best decision they were able to make as you write your advice
 * Never assume someone will hear/read your critiques in your actual voice; expect worse, and write kindly.
-* Never assume someone else’s comments were written in an angry voice – make an extra effort to take suggestions well.
+* Never assume someone else's comments were written in an angry voice – make an extra effort to take suggestions well.
 
 By continually communicating challenges and performing feature triage in order to ship key performance drivers, you will ensure the timeliness of your sprints, the satisfaction of our customers, and the happiness our developer teams.

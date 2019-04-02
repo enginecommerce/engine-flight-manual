@@ -12,7 +12,7 @@ permalink: /people/work-hours/
 
 We expect team members to be reachable from 9:00 to 15:00, local time or when they have stated. If you are able to be more productive outside of typical office hours, do it and let coworkers know.
 
-We are building an environment where each other’s working and focusing hours are respected; so focus when you need to, respond attentively when you are able, and be courteous of others and their need to focus in kind.
+We are building an environment where each other's working and focusing hours are respected; so focus when you need to, respond attentively when you are able, and be courteous of others and their need to focus in kind.
 
 ## Expect to Answer the Call
 
@@ -24,7 +24,7 @@ Our team spans multiple time zones, so be aware and courteous of the time zone o
 
 ### Ask your question via Slack and be patient for a response
 
-* Respect each other’s working/focusing hours
+* Respect each other's working/focusing hours
 * Expect that your request will be treated with respect, but as non-urgent.
 * **If your need is urgent, say so, and feel free to make a Slack call that rings loudly and forever**
 * If you have not received a response for longer than 10 minutes during core hours, you may feel free to message again politely
@@ -37,4 +37,4 @@ Our team spans multiple time zones, so be aware and courteous of the time zone o
 
 ## Focus when it is needed. Be present when answering a request
 
-If you’re busy with something important, just respond when you’re able; and if it’s night, feel free to respond the next day.
+If you're busy with something important, just respond when you're able; and if it's night, feel free to respond the next day.
