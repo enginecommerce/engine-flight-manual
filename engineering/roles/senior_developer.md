@@ -2,6 +2,7 @@
 layout: default
 title: Senior Developer
 parent: Roles & Job Descriptions
+grand_parent: Engineering
 has_children: false
 permalink: /engineering/roles/sr-developer/
 ---
@@ -10,11 +11,13 @@ permalink: /engineering/roles/sr-developer/
 
 ---
 
-* Your Job Is...
-  * Daily
-  * Weekly/Bi-Weekly
-  * Per Project Phase
-* Assumptions
+###### On this page
+
+* [Your Job Is...](#your-job-is)
+  * [Daily](#daily)
+  * [Weekly/Bi-Weekly](#weeklybi-weekly)
+  * [Per Project Phase](#per-project-phase)
+* [Assumptions](#assumptions)
 
 ---
 
@@ -43,7 +46,7 @@ You may personally feel like you’re not getting enough done because you will o
 * Help create engineering specifications and timeline estimates
 * Be a good triage coach – repeat often that estimates are merely best guesses and all features require objectivity for successful triage when timelines tighten
 
-### Assumptions
+## Assumptions
 
 * Assume you will never fully know what it takes to launch feature in production until that feature is launched in production
 * Assume coworkers have made the best decision they were able to make as you write your advice
