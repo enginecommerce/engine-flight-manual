@@ -11,4 +11,8 @@ task "assets:precompile" do
   exec("jekyll build")
 end
 
-task default: [:scss_lint]
+task "md_lint" do
+  exec("mdl .")
+end
+
+task default: [:scss_lint, :md_lint]

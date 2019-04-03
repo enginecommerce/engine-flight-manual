@@ -59,15 +59,7 @@ bundle exec jekyll serve
 
 This repo uses [Markdownlint][markdownlint_url] and [scss-lint][scss_lint_url].
 
-After editing, perform the following to check your work against our guidelines:
-
-Run Markdown Linter, making sure to include a directory argument.
-
-```bash
-bundle exec mdl .
-```
-
-Run `scss-lint` with rake
+After editing, perform the following to check your work against our guidelines: run Markdown Linter and `scss-lint` with Rake.
 
 ```bash
 bundle exec rake
