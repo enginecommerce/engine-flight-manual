@@ -3,7 +3,6 @@ source "https://rubygems.org"
 gem "jekyll", "~> 3.8.5"
 gem "rake"
 gem "just-the-docs", "0.2.3"
-gem 'rack-jekyll'
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
