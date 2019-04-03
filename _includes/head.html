@@ -3,7 +3,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 
   {% if page.description %}
-    <meta name="Description" content="{{ page.description }}">
+    {% assign meta_description = page.description %}
+  {% elsif site.description %}
+    {% assign meta_description = site.description %}
+  {% endif %}
+
+  {% if meta_description %}
+    <meta name="Description" content="{{ meta_description }}">
   {% endif %}
 
   <title>{{ page.title }} - {{ site.title }}</title>
