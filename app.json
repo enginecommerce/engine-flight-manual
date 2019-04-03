@@ -9,10 +9,10 @@
       "url": "heroku/ruby"
     },
     {
-      "url": "https://github.com/dmathieu/heroku-buildpack-jekyll"
+      "url": "https://github.com/enginecommerce/heroku-buildpack-jekyll"
     },
     {
-      "url": "https://github.com/hone/heroku-buildpack-static"
+      "url": "https://github.com/enginecommerce/heroku-buildpack-static"
     }
   ],
   "stack": "heroku-18"
