@@ -31,8 +31,6 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
-    jekyll-seo-tag (2.6.0)
-      jekyll (~> 3.3)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     just-the-docs (0.2.3)
@@ -49,10 +47,6 @@ GEM
       mixlib-cli (~> 1.7, >= 1.7.0)
       mixlib-config (~> 2.2, >= 2.2.1)
     mercenary (0.3.6)
-    minima (2.5.0)
-      jekyll (~> 3.5)
-      jekyll-feed (~> 0.9)
-      jekyll-seo-tag (~> 2.1)
     mixlib-cli (1.7.0)
     mixlib-config (2.2.18)
       tomlrb
@@ -84,7 +78,6 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   just-the-docs (= 0.2.3)
   mdl
-  minima (~> 2.0)
   rake
   scss_lint (~> 0.57.1)
   tzinfo-data
