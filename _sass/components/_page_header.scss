@@ -4,15 +4,14 @@
   padding-bottom: 2rem;
 
   .page-header {
+    @extend %page-title;
+
     margin-bottom: 1rem;
   }
 
   .page-header-subhead {
-    color: $text-light;
-    font-family: 'Nunito Sans', sans-serif;
-    font-size: 22px;
-    font-weight: 300;
-    line-height: 28px;
+    @extend %page-subhead;
+
     margin: 1rem 0;
   }
 }

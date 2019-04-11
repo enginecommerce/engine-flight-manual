@@ -1,10 +1,9 @@
 ---
 layout: default
-title: People
+title: Engine People
 has_children: true
+description: At Engine we work hard, and we take the time needed to recharge and find ourselves. Here you will find our policies for work, time off, and conduct.
 permalink: /people/
 ---
 
-# Engine People
-
-At Engine we work hard, and we take the time needed to recharge and find ourselves. Here you will find our policies for work, time off, and conduct.
+{% include page_header.html %}

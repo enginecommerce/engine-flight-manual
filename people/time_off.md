@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Vacation & Time Off
-parent: People
+description: Engine offers unlimited time off, as long as you are meeting sprint and project goals
+parent: Engine People
 has_children: false
 permalink: /people/time-off/
 ---
 
-# Vacations & Time Off
+{% include page_header.html %}
 
-## Engine offers unlimited time off, as long as you are meeting sprint and project goals
-
-There are no set limits on total days off, so long as elite production expectations are being met.
+# There are no set limits on days off
 
 If you need a day off, take it. If you have a family obligation, go. In the case of sabbatical-style vacations, we think everyone should be able to find themselves, so your first consecutive week is paid; additional, consecutive weeks are unpaid for as long as you need. In all cases, it is your responsibility to arrange things around your absence with your manager. As the company grows, certain restrictions may become necessary to maintain our work and life balance, but for the time being, our team consists solely of highly motivated, driven professionals who don't need arbitrary restrictions.
 
-### How to plan time off for health or vacation
+# How to plan time off
 
 **First, talk it over with your manager.** Tell your manager what you want to do and when you want to do it. No forms are necessary. This applies to vacation time as well as sick time. Your manager will coordinate with other team members, project managers, etc.
 
