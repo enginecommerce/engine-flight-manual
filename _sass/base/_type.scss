@@ -1,19 +1,18 @@
-
 %header-1 {
-  color: $title1-color;
+  color: $header1-color;
   font-size: 50px;
   font-weight: 600;
 }
 
 %header-2 {
-  color: $title2-color;
+  color: $header2-color;
   font-size: 2.5rem;
   font-weight: 300;
   line-height: 1.05;
 }
 
 %header-3 {
-  color: $title3-color;
+  color: $header3-color;
   font-size: 2.5rem;
   font-weight: 700;
   letter-spacing: .03125rem;
@@ -21,14 +20,14 @@
 }
 
 %header-4 {
-  color: $title4-color;
+  color: $header4-color;
   font-size: 1.25rem;
   font-weight: 700;
   line-height: 1.4;
 }
 
 %header-5 {
-  color: $title5-color;
+  color: $header5-color;
   font-size: 1.142857143rem;
   font-weight: 700;
   letter-spacing: .1875rem;
@@ -37,7 +36,7 @@
 }
 
 %header-6 {
-  color: $title6-color;
+  color: $header6-color;
   font-size: .875rem;
   font-weight: 400;
   letter-spacing: .03125rem;
@@ -47,4 +46,19 @@
 
 %page-title {
   @extend %header-1;
+
+  color: $title-color;
+  font-size: 3rem !important;
+  font-weight: 300;
+  letter-spacing: -.02em;
+  line-height: 1;
+}
+
+%page-subhead {
+  @extend %page-title;
+
+  color: lighten($title-color, 15%);
+  font-size: 26px !important;
+  font-weight: 300;
+  line-height: 1.272em;
 }

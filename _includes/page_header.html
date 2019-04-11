@@ -1,8 +1,12 @@
 {% assign include_title = page.title %}
-{% assign include_subhead = page.subhead %}
+{% assign include_subhead = page.description %}
 
 {% if include.title %}
   {% assign include_title = include.title %}
+{% endif %}
+
+{% if page.subhead %}
+  {% assign include_subhead = page.subhead %}
 {% endif %}
 
 {% if include.subhead %}
