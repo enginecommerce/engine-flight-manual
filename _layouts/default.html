@@ -2,7 +2,6 @@
 
 <html lang="en-us">
   {% include head.html %}
-
   <body>
     <div class="page-wrap">
       <div class="side-bar">
@@ -81,6 +80,15 @@
 
           <div id="main-content" class="page-content" role="main">
             {{ content }}
+
+            {% if page.tabs %}
+              <div class="tab">
+                {% for tab in page.tabs %}
+                  <button class="tablinks" onclick="openTab(event, {{ tab.name }})">{{ tab.name }}</button>
+                  {% include {{ tab.permalink }} %}
+                {% endfor %}
+              </div>
+            {% endif %}
 
             {% if page.has_children == true and page.has_toc != false %}
               <div class="table-of-contents-layout">

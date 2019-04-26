@@ -5,6 +5,7 @@ parent: Roles & Job Descriptions
 grand_parent: Engineering
 has_children: false
 permalink: /engineering/roles/developer/
+
 ---
 
 [dev_channel_url]: https://engine-ecommerce.slack.com/messages/C68RJJCDU/
