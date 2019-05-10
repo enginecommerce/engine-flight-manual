@@ -15,13 +15,21 @@ permalink: /
 
 # Sections
 
+## [About Us](/about-us/)
+
+Learn about Engine, why we're here, and what makes us tick.
+
 ## [Engineering](/engineering/)
 
-How to do things, engineering job descriptions, collaboration code of conduct.
+Engineering job descriptions, collaboration code of conduct.
 
-## [People](/people/)
+## [Working at Engine](/working-at-engine/)
 
 Policies for work hours, time off.
+
+## [Processes](/processes/)
+
+How we foster a positive environment for innovation and still get things done.
 
 ---
 

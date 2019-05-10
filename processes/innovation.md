@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Product Process
-subhead: "Going static for beginners – with free template!"
-parent: Engineering
+title: Innovation
+subhead: Intention is nothing without a roadmap to get there
+parent: Processes
 has_children: false
-permalink: /engineering/guides/product-process/
+permalink: /processes/
 ---
 
-{% include page_header.html title="The Engine Product Process" subhead="How Products are Created, From Concept to Launch"%}
+{% include page_header.html title="The Engine Innovation Process" %}
 
 Use this Table of Contents as a reference. Read it first, and get a good idea of this entire process. Refer back to this remind you of what to do during the steps in the process.
 
