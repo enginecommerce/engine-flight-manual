@@ -11,15 +11,11 @@ permalink: /working-at-engine/time-off/
 
 # There Are No Set Limits for Days Off
 
-If you need a day off, take it. If you have a family obligation, go. In the case of sabbatical-style vacations, we think everyone should be able to find themselves, so your first consecutive week is paid; additional, consecutive weeks are unpaid for as long as you need. In all cases, it is your responsibility to arrange things around your absence with your manager.
-
-**If you need a day off, take it. If you have a family obligation, go.**
+**We do not count used vacation time and do not reimburse unused vacation time.** Instead, while you are at Engine, if you need a day off, take it; if you have a family obligation, go. Instead of keeping a tally, we plan sprints around the productivity of our members, and we encourage you to take the time you need in order to help us be the best place we can be for accomplishing great things.
 
 **In the case of sabbatical-style vacations,** we think everyone should be able to find themselves, so your first consecutive week is paid; additional, consecutive weeks are unpaid for as long as you need. In all cases, it is your responsibility to arrange things around your absence with your manager.
 
-**We do not count used time, and we do not reimburse unused time.** Instead, we encourage you to take the time you need while you are at Engine.
-
-As the company grows, certain restrictions may become necessary to maintain our work and life balance, but for the time being, our team consists solely of highly motivated, driven professionals who don’t need arbitrary restrictions.
+**As the company grows,** certain restrictions may become necessary to maintain our work and life balance, but for the time being, our team consists solely of highly motivated, driven professionals who don’t need arbitrary restrictions.
 
 # How to Plan Time Off
 
