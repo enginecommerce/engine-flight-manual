@@ -4,7 +4,7 @@ title: Products
 subhead: How Products are Created, from Concept to Launch
 parent: Processes
 has_children: false
-permalink: /processes/
+permalink: /processes/product/
 ---
 
 {% include page_header.html title="The Engine Product Process" %}
