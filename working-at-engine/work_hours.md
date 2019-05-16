@@ -2,9 +2,9 @@
 layout: default
 title: Work Hours
 description: Help us build an environment where each other’s working and focusing hours are respected.
-parent: Engine People
+parent: Working at Engine
 has_children: false
-permalink: /people/work-hours/
+permalink: /working-at-engine/work-hours/
 ---
 
 {% include page_header.html %}

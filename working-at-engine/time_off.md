@@ -2,20 +2,22 @@
 layout: default
 title: Vacation & Time Off
 description: Engine offers unlimited time off, as long as you are meeting sprint and project goals
-parent: Engine People
+parent: Working at Engine
 has_children: false
-permalink: /people/time-off/
+permalink: /working-at-engine/time-off/
 ---
 
 {% include page_header.html %}
 
-## There Are No Set Limits for Days Off
+# There Are No Set Limits for Days Off
 
-If you need a day off, take it. If you have a family obligation, go. In the case of sabbatical-style vacations, we think everyone should be able to find themselves, so your first consecutive week is paid; additional, consecutive weeks are unpaid for as long as you need. In all cases, it is your responsibility to arrange things around your absence with your manager.
+**We do not count used vacation time and do not reimburse unused vacation time.** Instead, while you are at Engine, if you need a day off, take it; if you have a family obligation, go. Instead of keeping a tally, we plan sprints around the productivity of our members, and we encourage you to take the time you need in order to help us be the best place we can be for accomplishing great things.
 
-As the company grows, certain restrictions may become necessary to maintain our work and life balance, but for the time being, our team consists solely of highly motivated, driven professionals who don’t need arbitrary restrictions.
+**In the case of sabbatical-style vacations,** we think everyone should be able to find themselves, so your first consecutive week is paid; additional, consecutive weeks are unpaid for as long as you need. In all cases, it is your responsibility to arrange things around your absence with your manager.
 
-## How to Plan Time Off
+**As the company grows,** certain restrictions may become necessary to maintain our work and life balance, but for the time being, our team consists solely of highly motivated, driven professionals who don’t need arbitrary restrictions.
+
+# How to Plan Time Off
 
 **First, talk it over with your manager.** Tell your manager what you want to do and when you want to do it. No forms are necessary. This applies to vacation time as well as sick time. Your manager will coordinate with other team members, project managers, etc.
 

@@ -15,18 +15,26 @@ permalink: /
 
 # Sections
 
+## [About Us](/about-us/)
+
+Learn about Engine, why we're here, and what makes us tick.
+
 ## [Engineering](/engineering/)
 
-How to do things, engineering job descriptions, collaboration code of conduct.
+Engineering job descriptions, collaboration code of conduct.
 
-## [People](/people/)
+## [Working at Engine](/working-at-engine/)
 
 Policies for work hours, time off.
+
+## [Processes](/processes/)
+
+How we foster a positive environment for innovation and still get things done.
 
 ---
 
 ## Thanks
 
-As engineers, we owe a huge debt to several communities of thought and their leaders. Not least among them are [Basecamp](https://m.signalvnoise.com/), [Thoughtbot](https://thoughtbot.com/playbook), [Madriska](https://www.madriska.com/), [Ruby on Rails](https://rubyonrails.org/), [React](https://reactjs.org/), and [Solidus](https://solidus.io/).
+As engineers, we owe a huge debt to several communities of thought and their leaders. Not least among them are [Basecamp](https://m.signalvnoise.com/), [Thoughtbot](https://thoughtbot.com/playbook), [Nebulab](https://playbook.nebulab.it/), [Madriska](https://www.madriska.com/), [Ruby on Rails](https://rubyonrails.org/), [React](https://reactjs.org/), and [Solidus](https://solidus.io/).
 
 This is [MIT-licensed](license_url), open source software that you may clone and modify for your own use, personal or professional. If you find a problem, please consider opening an issue or [making a contribution][code_of_conduct_link].
