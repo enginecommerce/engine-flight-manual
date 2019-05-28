@@ -7,6 +7,16 @@ has_children: false
 permalink: /engineering/welcome/
 ---
 
+[Homebrew URL]: https://brew.sh/
+[RBENV URL]: https://github.com/rbenv/rbenv
+[NVM URL]: https://github.com/nvm-sh/nvm
+[PostgreSQL URL]: https://www.postgresql.org/
+[Engine Storefront Source URL]: https://github.com/geminimvp/engine_storefront
+[Visual Studio Code URL]: https://code.visualstudio.com/
+[iTerm URL]: https://www.iterm2.com/
+[Keybase URL]: https://keybase.io/
+[Slack URL]: https://slack.com/
+
 {% include page_header.html %}
 
 # Your Mentor
@@ -25,10 +35,10 @@ Your laptop has already been secured with a password and the disk has been encry
 
 ## Software Installed by Engine:
 
-* Homebrew, asdf, PostgreSQL, and support libraries for running [engine_storefront](https://github.com/geminimvp/engine_storefront)
-* Visual Studio Code and iTerm 2
-* Keybase
-* Slack
+* [Homebrew][Homebrew URL], [rbenv][RBENV URL], [nvm][NVM URL], [PostgreSQL][PostgreSQL URL], and support libraries for running [engine_storefront][Engine Storefront Source URL]
+* [Visual Studio Code][Visual Studio Code URL] and [iTerm][iTerm URL]
+* [Keybase][Keybase URL]
+* [Slack][Slack URL]
 * Popular web browsers
 
 # What’s Next?
