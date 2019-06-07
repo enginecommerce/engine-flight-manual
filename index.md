@@ -6,27 +6,26 @@ has_toc: false
 nav_order: 1
 parent: nil
 permalink: /
+title: "The Engine Storefront Manual"
+subhead: "Managing your store"
+context:
+  - name: Dashboard
+    permalink: dashboard
+    description: Engine Store Front homepage for overall staticics and sales reports
+    description_permalink: 'content/home/dashboard.html'
+  - name: Products
+    permalink: products
+    description: Shows you all the products listed on your site. Add, edit, clone or delete any product
+    description_permalink: 'content/home/products.html'
+  - name: Promotions
+    permalink: promotions
+    description: Homepage for all the promotions, active and inactive. Add, edit or delete promotions that are available on your site
+    description_permalink: 'content/home/promotions.html'
+  - name: Orders
+    permalink: orders
+    description: View all the recorded orders, incomplete and complete, and their status in live time
+    description_permalink: 'content/home/orders.html'
 ---
 
 [license_url]: https://github.com/enginecommerce/flight_manual/blob/master/LICENSE
 [code_of_conduct_link]: /flight_manual/engineering/guides/code-of-conduct.html
-
-{% include page_header.html title="The Engine Flight Manual" subhead="This is how we pilot our ship"%}
-
-# Sections
-
-## [Engineering](/engineering/)
-
-How to do things, engineering job descriptions, collaboration code of conduct.
-
-## [People](/people/)
-
-Policies for work hours, time off.
-
----
-
-## Thanks
-
-As engineers, we owe a huge debt to several communities of thought and their leaders. Not least among them are [Basecamp](https://m.signalvnoise.com/), [Thoughtbot](https://thoughtbot.com/playbook), [Madriska](https://www.madriska.com/), [Ruby on Rails](https://rubyonrails.org/), [React](https://reactjs.org/), and [Solidus](https://solidus.io/).
-
-This is [MIT-licensed](license_url), open source software that you may clone and modify for your own use, personal or professional. If you find a problem, please consider opening an issue or [making a contribution][code_of_conduct_link].

@@ -1,0 +1,89 @@
+{% unless page.image %}
+
+  {{ content }}
+
+{% else %}
+    <div class="images">
+      <div class="row">
+
+        <div class="left">
+
+          {% if page.context %}
+            {% for item in page.context %}
+              <div class="mouseArea" data-image='{{ item.hover_image_link }}'>
+                <h2 id='{{ item.name }}'>
+                  <a href='/{{ item.name | downcase }}'>{{ item.name }}</a>
+                </h2>
+
+                <p>
+                  {{ item.description }}
+                </p>
+
+              </div>
+            {% endfor %}
+          {% else %}
+
+            {{ content }}
+
+          {% endif %}
+        </div>
+
+        <div class="right">
+          <div class="img-wrapper">
+            <div class="mouseTarget">
+              <img id="myImage" src="{{ page.image }}">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+{% endunless %}
+
+
+
+
+
+
+
+{% if page.context %}
+<div class="row">
+
+  <div class="left">
+    {% for item in page.context %}
+      {% if item.hover_image %}
+        <div class="mouseArea" data-image='{{ item.hover_image_link }}'>
+          <h2 id='{{ item.name }}'>
+            <a href='/{{ item.name | downcase }}'>{{ item.name }}</a>
+          </h2>
+          <p>
+            {{ item.description }}
+          </p>
+        </div>
+      {% endif %}
+
+      {% for step in item.steps %}
+      <h2 id='{{ item.name }}'>
+        <a href='/{{ item.name | downcase }}'>{{ item.name }}</a>
+      </h2>
+        <button class="collapsible">{{ step.name }}</button>
+          <div class="collapsible-content">
+            <ol>
+              {% include {{ step.permalink }} %}
+            </ol>
+          </div>
+      {% endfor %}
+    {% endfor %}
+  </div>
+
+  {% if page.image %}
+    <div class="right">
+      <div class="img-wrapper">
+        <div class="mouseTarget">
+          <img id="myImage" src="{{ page.image }}">
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endif %}
+{% endif %}

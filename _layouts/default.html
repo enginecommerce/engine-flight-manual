@@ -79,15 +79,31 @@
           {% endunless %}
 
           <div id="main-content" class="page-content" role="main">
-            {{ content }}
+            <header class="page-header-layout">
+              <h1 class="page-header">{{ page.title }}</h1>
+              <p class="page-header-subhead">{{ page.subhead }}</p>
+            </header>
 
-            {% if page.tabs %}
-              <div class="tab">
-                {% for tab in page.tabs %}
-                  <button class="tablinks" onclick="openTab(event, {{ tab.name }})">{{ tab.name }}</button>
-                  {% include {{ tab.permalink }} %}
-                {% endfor %}
-              </div>
+            {% if page.context %}
+              {% for item in page.context %}
+                <div class="content-wrapper">
+                  <div class="header">
+                    <h2 id='{{ item.name }}'>
+                      <a href='/{{ item.permalink }}'>{{ item.name }}</a>
+                    </h2>
+                  </div>
+                  <div class="topic-description">
+                    <p>
+                      {{ item.description }}
+                    </p>
+                    <div class="note">
+                      {% include {{ item.description_permalink }} %}
+                    </div>
+                  </div>
+              {% endfor %}
+
+            {% else %}
+              {{ content }}
             {% endif %}
 
             {% if page.has_children == true and page.has_toc != false %}

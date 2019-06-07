@@ -1,20 +1,34 @@
 ---
-layout: default
-title: Adding New Products
+layout: steps
+title: Adding a New Product
 parent: Products
 has_children: false
+overview_permalink: 'content/products/add/overview/add_products.html'
 permalink: products/add/
+image: false
+context:
+  - title: Adding products
+    permalink: products/add
+    description: Creating new products on your site
+    steps:
+
+    - instruction: In the Product Homepage, follow the New Product Link in the Navigation Bar at the top
+      image: '/assets/images/mockdown/draft2/products_home_mockdown_with_new_product_button.jpg'
+
+    - instruction: Fill in the basic information for the new product you want to create
+      image: '/assets/images/mockdown/draft2/new_product_mockdown_with_screenshot_dark.jpg'
+
+    - instruction: Select the Create button located at the botton of the page
+      image: /assets/images/mockdown/draft2/new_product_mockdown_with_screenshot_dark_with_create_button.jpg
+
+    - instruction: The next page will show a Success banner at the bottom of the page verifying that you have successfully created a new product
+      image: '/assets/images/mockdown/draft2/new_product_successful_mockdown_with_message_screenshot_dark.jpg'
+
+    - instruction: This banner is reflected in the Product's Edit Page for you to add any images, create variants, attach option types and property types, and view stock information
+      notes:
+      - header: Here is a list of all the tabs in the Product Details page
+        permalink: 'content/products/notes/product_edit.html'
+      permalink: /products/edit/
+      permalink_name: Editing a product
+      image: '/assets/images/mockdown/draft2/new_product_successful_mockdown_with_product_details_screenshot_dark.jpg'
 ---
-
-# Adding New Products
-
-## Overview
-To add a New Product, click the <code>+ New Product link</code> at the top in the navigation bar.
-
-This will take you to a general tab for entering and saving the minimum information needed to add a new product.
-
-Once you’ve entered the Name, Description, Price, and selected a Shipping Category and Tax Category, you may click the Create button located at the bottom of the page. This will automatically create the product to your list of products and an Edit tab will open up allowing you to continue editing the product.
-
-For further reference on Name, Description, Price, Shipping Category and Tax Category, see the definitions in the General tab below under Product Creations - terms and definitions.
-
-At any time in the Edit page, you may click Products located to the left of the page to return to the Products page. Once you’ve edited information in the selected tab, the information won’t be saved until you select update located at the bottom of each tab.

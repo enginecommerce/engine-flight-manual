@@ -15,3 +15,123 @@
   text-indent: 9000rem;
   white-space: nowrap;
 }
+
+.tab-content{
+  display: none;
+}
+
+/* Style the tab */
+.tab {
+  overflow: hidden;
+}
+
+.tabs {
+  min-height: 1px;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  overflow: hidden;
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+  border-bottom: 1px solid transparent;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  border-bottom: 1px solid;
+  border-color: #ff7328;
+}
+
+.tab-links.active{
+  border-bottom: 1px solid;
+  border-color: #ff7328;
+}
+
+.active {
+  display: block;
+
+  + .collapsible-content {
+    display: block;
+  }
+}
+
+h2.step-label{
+  font-size: 15px;
+}
+
+.collapsible, .help-item-header{
+  font-family: Poppins, sans-serif;
+  font-weight: 300;
+  font-size: 24px;
+  background-color: #f1f1f1;
+  padding: 20px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  margin: 0;
+}
+
+.content {
+  margin-bottom: 1.5rem;
+  padding: 0 18px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.07), 0 4px 14px rgba(0, 0, 0, 0.05);
+  overflow: hidden;
+  //display: none;
+}
+
+.collapsible-content {
+  margin-bottom: 1.5rem;
+  padding: 0 18px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.07), 0 4px 14px rgba(0, 0, 0, 0.05);
+  overflow: hidden;
+  display: none;
+}
+
+.note{
+  padding: 10px;
+}
+
+.row {
+  display: flex;
+}
+
+.left {
+  width: 50%;
+  height: 100%;
+}
+
+.right {
+  width: 50%;
+  height: 100%;
+}
+
+.img-wrapper{
+  overflow: hidden;
+  transition: height 0.66s ease-out;
+}
+
+#myImage {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  left: 0;
+}
+
+.mouseTarget{
+  box-sizing: border-box;
+}
+
+.toc {
+  padding: 10px;
+}
+
+li {
+  margin: 0 0 3px 0;
+}
