@@ -97,9 +97,10 @@
             {% endif %}
 
             {% if page.overview_permalink %}
-                <div class="note">
-                  {% include {{ page.overview_permalink }}%}
-                </div>
+              <div class="note">
+                {% include {{ page.overview_permalink }}%}
+              </div>
+              <hr>
             {% endif %}
 
             {% if page.context %}
@@ -134,10 +135,23 @@
 
                               {% endfor %}
                             {% endif %}
-                            <div class="img-wrapper">
-                              <img src="{{ instruction.image }}">
-                            </div>
-                            <a href="{{ instruction.permalink }}">{{ instruction.permalink_name  }}</a>
+                            {% if instruction.image %}
+                              <div class="img-wrapper">
+                                <img src="{{ instruction.image }}">
+                              </div>
+                            {% elsif instruction.images %}
+                              {% for image in instruction.images %}
+                                <div class="note">
+                                  {{ image.image_header }}
+                                </div>
+                                <div class="img-wrapper">
+                                  <img src="{{ image.image }}">
+                                </div>
+                              {% endfor %}
+                            {% endif %}
+                            {% if instruction.permalink %}
+                              <a href="{{ instruction.permalink }}">{{ instruction.permalink_name  }}</a>
+                            {% endif %}
                             {% if forloop.last == false %}
                               <hr>
                             {% endif %}
