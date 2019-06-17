@@ -23,6 +23,12 @@
 /* Style the tab */
 .tab {
   overflow: hidden;
+  display: flex;
+}
+
+.tab li{
+  list-style-type: none;
+  display: flex;
 }
 
 .tabs {
@@ -36,7 +42,8 @@
   float: left;
   border: none;
   outline: none;
-  padding: 14px 16px;
+  padding-top: 14px;
+  padding-bottom: 14px;
   transition: 0.3s;
   font-size: 17px;
   border-bottom: 1px solid transparent;

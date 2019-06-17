@@ -88,7 +88,9 @@
               <div class="tabs">
                 <div class="tab" onclick="getScrollHeight(event)">
                   {% for tab in page.tabs %}
-                    <button class="tab-links" onclick="openTab(event, '{{ tab.name | downcase }}')">{{ tab.name }}</button>
+                    <li>
+                      <button class="tab-links" onclick="openTab(event, '{{ tab.name | downcase }}')">{{ tab.name }}</button>
+                    </li>
                   {% endfor %}
                 </div>
 
