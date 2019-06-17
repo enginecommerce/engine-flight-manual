@@ -32,7 +32,7 @@ context:
   - title: Create a New Product
     steps:
 
-    - instruction: In the Product Creations Homepage, follow the New Product Link in the Navigation Bar at the top
+    - instruction: In the Product Creations Homepage, follow the New Product link in the Navigation Bar at the top
       image: '/assets/images/mockdown/draft2/products_home_mockdown_with_new_product_button.jpg'
 
     - instruction: Follow the link below for more details on adding a product to your site
@@ -152,7 +152,7 @@ context:
     - instruction: Click Create
       image: /assets/images/mockdown/draft2/new_taxonomy_screenshot_mockdown_with_create_button_dark.jpg
 
-  - title: Search for a product
+  - title: Search for a Product
     steps:
 
     - instruction: Locate the Products Menu Link at the top of the page

@@ -96,7 +96,11 @@
               <hr>
             {% endif %}
 
-            {% comment %}onClick="document.getElementById('{{ item.title }}').scrollIntoView();"{% endcomment %}
+            {% if page.overview_permalink %}
+                <div class="note">
+                  {% include {{ page.overview_permalink }}%}
+                </div>
+            {% endif %}
 
             {% if page.context %}
               <div class="steps-wrapper">
