@@ -20,7 +20,7 @@ context:
     - instruction: Locate the Products Menu Link at the top of the page
       image: '/assets/images/mockdown/draft2/dashboard_mockdown_with_products_menu_screenshot.jpg'
       notes:
-      - header: In the products menu you will find other helpful ways to keep your products organized
+      - header: In the products menu link you will find other helpful ways to keep your products organized.
         permalink: 'content/products/notes/products_menu.html'
 
     - instruction: This is the Products Homepage
@@ -44,7 +44,7 @@ context:
     - instruction: To Edit, Clone or Delete a product, Select the product you want to edit from the products list on the products homepage
       image: /assets/images/mockdown/draft2/products_list_mockdown_with_products_header_screenshot.jpg/
 
-    - instruction: Once you've selected the product, you may edit, clone or delete the products with the button located to the right of the screen
+    - instruction: Once you've selected the product, you may edit, clone or delete the products with the buttons located to the right of the screen
       image: /assets/images/mockdown/draft2/products_list_mockdown_with_edit_clone_delete_screenshot.jpg
       notes:
       - header:
@@ -52,7 +52,7 @@ context:
 
     - instruction: For Editing the products, follow the link below for the guide to the Product's Edit page
       notes:
-      - header: Here is a list of all the tabs in the Product's Edit page
+      - header: "Here is a list of all the tabs in the Product's Edit page:"
         permalink: 'content/products/notes/product_edit.html'
       permalink: /products/edit/
       permalink_name: Editing a product
@@ -135,7 +135,7 @@ context:
     - instruction: Another slot will appear at the bottom of the page for you to add another value
       image: /assets/images/mockdown/draft2/option_types/option_type_new_example_successful_post_full_adding_value_successful_post_new_value_slot_out_dark.jpg
 
-    - instruction: Continue to add as many option values are necessary to your option type
+    - instruction: Continue to add as many option values that are necessary to your option type
 
   - title: Add Taxonomies
     steps:

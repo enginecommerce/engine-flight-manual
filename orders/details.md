@@ -45,7 +45,7 @@ tabs:
           - header: Keep repeating these steps to add more items to your order
           image: /assets/images/mockdown/draft2/orders/order_new_add_item_post_out_slot_dark.jpg
 
-      - title: Delete an item from an Order
+      - title: Delete an Item from an Order
         steps:
 
         - instruction: Open the Cart tab in the Details page of the order

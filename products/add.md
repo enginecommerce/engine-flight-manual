@@ -26,7 +26,7 @@ context:
 
     - instruction: This banner is reflected in the Product's Edit Page for you to add any images, create variants, attach option types and property types, and view stock information
       notes:
-      - header: Here is a list of all the tabs in the Product Details page
+      - header: 'Here is a list of all the tabs in the Product Details page:'
         permalink: 'content/products/notes/product_edit.html'
       permalink: /products/edit/
       permalink_name: Editing a product

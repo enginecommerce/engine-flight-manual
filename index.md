@@ -11,19 +11,19 @@ subhead: "Managing your store"
 context:
   - name: Dashboard
     permalink: dashboard
-    description: Engine Store Front homepage for overall staticics and sales reports
+    description: Engine Store Front homepage for overall staticics and sales reports.
     description_permalink: 'content/home/dashboard.html'
   - name: Products
     permalink: products
-    description: Shows you all the products listed on your site. Add, edit, clone or delete any product
+    description: Shows you all the products listed on your site. Add, edit, clone or delete any product.
     description_permalink: 'content/home/products.html'
   - name: Promotions
     permalink: promotions
-    description: Homepage for all the promotions, active and inactive. Add, edit or delete promotions that are available on your site
+    description: Homepage for all the promotions, active and inactive. Add, edit or delete promotions that are available on your site.
     description_permalink: 'content/home/promotions.html'
   - name: Orders
     permalink: orders
-    description: View all the recorded orders, incomplete and complete, and their status in live time
+    description: View all the recorded orders, incomplete and complete, and their status in live time.
     description_permalink: 'content/home/orders.html'
 ---
 

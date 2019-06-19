@@ -13,7 +13,7 @@ function openTab(evt, tabName){
 };
 
 $(document).ready(function(){
-  document.getElementById('general').style.display="block";
+  document.getElementById('product details').style.display="block";
 
 });
 

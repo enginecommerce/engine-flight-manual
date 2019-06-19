@@ -5,7 +5,7 @@ parent: Products
 has_children: false
 permalink: products/edit/
 tabs:
-  - name: General
+  - name: Product Details
     permalink: 'content/products/edit/general.html'
 
   - name: Images
@@ -29,13 +29,13 @@ tabs:
       - instruction: In order to save the image to the product, you must open the image in the edit image page to attach it to a variant or all variants, add text for optional organization
         image: /assets/images/mockdown/draft2/images/images_list_out_dark_edit_button_dark.jpg
 
-      - instruction: Once you click edit, the image edit page will open allowing to you attach your image to specific or all the variants. The image won't be saved until its attached to a variant.
+      - instruction: Once you click edit, the image edit page will open allowing to you attach your image to specific or all the variants - the image won't be saved until its attached to a variant
         image: /assets/images/mockdown/draft2/images/images_variant_out_dark.jpg
 
       - instruction: Click Update at the bottom of the page
         image: /assets/images/mockdown/draft2/images/imags_edit_page_full_out_update_button_dark.jpg
 
-      - instruction: Continue uploading photos, opening them in the edit view and attaching them to variants as needed.
+      - instruction: Continue uploading photos, opening them in the edit view and attaching them to variants as needed
 
     - title: How to edit an image
       steps:
@@ -58,7 +58,7 @@ tabs:
       - instruction: Click Edit on the image you want to edit
         image: /assets/images/mockdown/draft2/images/images_list_out_dark_edit_button_dark.jpg
 
-      - instruction: Once you click edit, the image edit page will open allowing to you attach your image to specific or all the variants. When you click on the Variant slot, a list of all the possible variants will populate.
+      - instruction: Once you click edit, the image edit page will open allowing to you attach your image to specific or all the variants, when you click on the Variant slot, a list of all the possible variants will populate
         image: /assets/images/mockdown/draft2/images/images_variant_out_dark.jpg
 
       - instruction: Click Update at the bottom of the page
@@ -101,7 +101,7 @@ tabs:
 
       - instruction: Click the Add New Variant button at the top of the page
         notes:
-        - header: If the option types are not added to the product, this button will not appear at the top of the page
+        - header: If the option types are not added to the product under the Product Details tab, this button will not appear at the top of the page
 
         image: /assets/images/mockdown/draft2/variants/variants_tab_add_dark.jpg
 
@@ -164,15 +164,6 @@ tabs:
 
       - instruction: Click create
         image: /assets/images/mockdown/draft2/property_types_new_mockdown_screenshot_with_create_button_screenshot_dark.jpg
-
-    - title: Edit the Properties of a Product
-      steps:
-
-      - instruction: instruction 1
-        image: //
-
-      - instruction: instruction 2
-        image: //
 
   - name: Stock
     permalink: 'content/products/edit/stock.html'
