@@ -6,7 +6,7 @@
   "addons": [],
   "buildpacks": [
     {
-      "url": "heroku/ruby"
+      "url": "https://github.com/enginecommerce/heroku-buildpack-ruby"
     },
     {
       "url": "https://github.com/enginecommerce/heroku-buildpack-jekyll"
