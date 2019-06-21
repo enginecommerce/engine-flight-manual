@@ -14,7 +14,7 @@ group :test, :development do
 end
 
 # Gems for Windows
-gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+gem "tzinfo-data", platforms: [:mingw, :mswin, :jruby]
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 ruby "2.5.1"
