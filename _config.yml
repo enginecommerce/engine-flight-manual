@@ -1,7 +1,7 @@
 # Site settings
-title: Engine Flight Manual
+title: Engine Operators Manual
 email: info@enginecomerce.com
-description: Engine Commerce reference for software development policies and product and project management
+description: A complete guide to operating an Engine Commerce storefront.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: enginecommerce
