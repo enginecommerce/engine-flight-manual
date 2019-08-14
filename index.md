@@ -11,7 +11,7 @@ subhead: "Managing your store"
 context:
   - name: Dashboard
     permalink: dashboard
-    description: Engine Store Front homepage for overall staticics and sales reports.
+    description: Engine Store Front homepage for overall statistics and sales reports.
     description_permalink: 'content/home/dashboard.html'
   - name: Products
     permalink: products
@@ -25,6 +25,10 @@ context:
     permalink: orders
     description: View all the recorded orders, incomplete and complete, and their status in live time.
     description_permalink: 'content/home/orders.html'
+  - name: Domains
+    permalink: domains
+    description: Create and link a custom domain to your store.
+    description_permalink: 'content/home/domains.html'
 ---
 
 [license_url]: https://github.com/enginecommerce/flight_manual/blob/master/LICENSE
