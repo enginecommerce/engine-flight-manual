@@ -34,9 +34,13 @@
   </g>
 </svg>
 
-# The Engine Flight Manual
+**🛑 DEPRICATION WARNING: This repo is no longer being maintained. The contents of this manual have been moved to [help.enginecommerce.com](https://help.enginecommerce.com/).**
 
-Welcome to the [Engine Flight Manual](self_url). This is the repo README.md, located at the root of the repo. This file is not used in the creation of the navigable site content.
+---
+
+# The Engine Operators Manual
+
+Welcome to the [Engine Operators Manual](self_url). This is the repo README.md, located at the root of the repo. This file is not used in the creation of the navigable site content.
 
 The entry content file is index.md.
 
