@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Style Guide
-subhead: The Engine style guide for software development.
+subhead: The Engine style guide for software development
 parent: Engineering Guides
+grand_parent: Engineering
 has_children: false
 permalink: /engineering/guides/style
 ---
@@ -19,7 +20,7 @@ permalink: /engineering/guides/style
 
 ## WIP
 
-We view our business and our software as a continual work in progress. We have made a lot of mistakes to get here, and we will make more as we progress. Simply observe these standards as you go, improve continually, and always leave your projects a little cleaner than how you found them. ⚜︎
+We view our business and our software as a continual work in progress. We have made a lot of mistakes to get here, and we will make more as we progress. Simply observe these standards as you go, improve continually, and always leave your projects a little cleaner than how you found them.
 
 Eventually, we hope that this section of our Flight Manual will grow to be its own valuable, linkable resource. In order to make that happen, please make issues and PRs against this guide to improve it.
 

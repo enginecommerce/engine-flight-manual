@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Contributor Covenant Code of Conduct
-parent: Engineering
+parent: Engineering Guides
+grand_parent: Engineering
 has_children: false
 permalink: /engineering/guides/code-of-conduct/
 ---
