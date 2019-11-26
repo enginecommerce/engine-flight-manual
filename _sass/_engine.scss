@@ -8,5 +8,17 @@
 @media (min-width: 46.25rem) {
   .site-footer {
     background-color: transparent;
+    color: $text-inverted-light;
+    font-size: 0.8rem;
+
+    a {
+      &:link {
+        &,
+        &:visited,
+        &:active {
+          color: $text-inverted-light;
+        }
+      }
+    }
   }
 }
