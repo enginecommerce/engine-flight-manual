@@ -49,6 +49,8 @@ h6 {
 }
 
 mark {
+  background: $highlight-color;
+  color: $text-inverted;
   margin-left: -.25em;
   margin-right: -.25em;
   padding-left: .25em;
