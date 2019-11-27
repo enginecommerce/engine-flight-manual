@@ -31,9 +31,11 @@ You are the facilitator and connector of people and processes across teams. You 
 
 ### Daily
 
+* **For all new projects,** form project engineering teams and facilitate communication to plan, monitor, and report project progress
+* **Help work get done** – remove communication and work blockers and continually clarify project direction for all members involved
 * **Hold a morning standup meeting among team engineers** – engineers should state what they did yesterday, what they will do today, and whether there are impediments to expected progress
-* **In Clubhouse,** ensure members of your engineering team have the right amount of work for the current Sprint and that work is divided into cards that take about two days each
-* Ensure practices endorsed by Engine Project Management are being performed by the team
+* **In Clubhouse,** ensure members of your engineering team have the right amount of work for the current Sprint and that work is divided into cards that require roughly two days each
+* Ensure that the team continually adheres to Engine Project Management best practices
 
 ### Bi-Weekly
 
