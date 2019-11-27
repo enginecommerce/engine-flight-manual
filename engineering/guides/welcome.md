@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Welcome to the Team!
-subhead: We value openness and transparency. As the latest valued member of our team, jump right in, file issues, engage with PRs, and help us to make Engine the best place it can be to work.
+subhead: We value openness and transparency; as the latest valued member of our team, jump right in, file issues, engage with PRs, and help us to make Engine the best place it can be to work
 parent: Engineering
 has_children: false
 permalink: /engineering/welcome/

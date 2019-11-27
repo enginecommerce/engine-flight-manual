@@ -1,8 +1,9 @@
 ---
 layout: default
 title: Mentorship Guide
-subhead: The Engine guide to training the next generation of developers.
-parent: Engineering
+subhead: The Engine guide to training the next generation of developers
+parent: Engineering Guides
+grand_parent: Engineering
 has_children: false
 permalink: /engineering/guides/mentorship
 ---
