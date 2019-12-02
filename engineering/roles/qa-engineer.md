@@ -25,12 +25,13 @@ permalink: /engineering/roles/qa-engineer/
 
 You are entrusted with writing and helping to define software tests that ensure the quality of our products and their continually successful operation. To Engine project Stakeholders, you are a guide to help clarify and journal objective goals and project outcomes. To Engineers, you are the referee and gate keeper of an objective finish line to each Sprint. To Engine leadership, you are the guardian of processes and software that ensure quality in our products.
 
-<mark>You do your job best 1) when you are not shy to pair with other Engine Software Engineers to share knowledge and solve problems, 2) when you make yourself available to project planners to help journal objective pass/fail criteria from stakeholders, 3) when you accept advice from Engine Senior Software Engineers in Pull Requests, and 4) when you bring suggestions for process changes to Engineering leadership.</mark>
+<mark>You do your job best 1) when you are not shy to pair with other Engine Software Engineers to share knowledge and solve problems, 2) when you make yourself available to project planners to help journal objective pass/fail criteria, 3) when you accept advice from Engine Senior Software Engineers in Pull Requests, and 4) when you bring suggestions for process changes to Engineering leadership.</mark>
 
 ### Daily
 
-* While pairing, you will encourage your pair programming partner with your can-do attitude, teachability, and curiosity
-* On Github, you will respond to Engine Senior Software Engineer feedback to make changes to Pull Requests quickly
+* While pairing, encourage your pair programming partner with your can-do attitude, teachability, and curiosity
+* In software, actively look for issues outside of the code being modified
+* On Github, respond to Engine Senior Software Engineer feedback to make changes to Pull Requests quickly
 * On Slack, monitor the #dev channel to answer questions quickly and guide Software Engineers to release clearly-testable, minimalistic features for later iteration
 * In [Clubhouse][clubhouse_projects_url], make comments on your progress and work with a Project Manager to break larger stories into several smaller stories, so you can complete at least one feature story card every two to three days
 * In Clubhouse, keep cards tidy and in their appropriate place, so stakeholders can easily see progress they can understand
