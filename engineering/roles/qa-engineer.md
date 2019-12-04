@@ -51,6 +51,6 @@ You are entrusted with writing and helping to define software tests that ensure 
 
 * Assume you will often repeat that all estimates are merely best guesses and all features require objectivity for successful triage when timelines tighten
 * Assume nobody knows what it takes to launch a feature in production until that feature is launched in production
-* Positive and well-thought-out communication is essential to our process, as it creates an environment where the best ideas surface to the top
+* Remember that positive and well-thought-out communication is essential to our process, as it creates an environment where the best ideas surface to the top
 
 By continually communicating challenges and performing feature triage to ship key performance drivers, you will ensure the timeliness of your Sprints, the satisfaction of our customers, and the happiness of our engineering teams.

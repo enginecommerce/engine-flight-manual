@@ -61,8 +61,7 @@ Remain curious, unafraid to learn, and teachable; and you will improve your craf
 * Assume you will never fully know what it takes to launch feature in production until that feature is launched in production
 * Never let yourself get stuck; before you get stuck, take the initiative to pair with a Senior Software Engineer to overcome roadblocks
 * Never let yourself get bored; if you're waiting for any reason, push yourself and ask to jump in on feature you are interested in or, even better, have zero experience with
-* Never assume someone else's comments were written in an angry voice – make an extra effort to take suggestions well.
-* Positive and well-thought-out communication is essential to our process, as it creates an environment where the best ideas surface to the top
-
+* Assume someone else's comments were written in a positive light – make an extra effort to take suggestions well
+* Remember that positive and well-thought-out communication is essential to our process, as it creates an environment where the best ideas surface to the top
 
 By continually communicating challenges and performing project triage to ship key performance drivers, you will ensure the timeliness of your Sprints, the satisfaction of our customers.
