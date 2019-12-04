@@ -47,11 +47,10 @@ You are the facilitator and connector of people and processes across teams. You 
 * **During the Project Management retrospective,** discuss process efficiency obstacles and gains with other Project Managers and Project Management leadership
 
 
-## Assumptions
+## Culture
 
-* Assume you will have to often repeat that estimates are merely best guesses and all features require objectivity for successful triage when timelines tighten
-* Assume nobody ever knows what it takes to launch a feature in production until that feature is launched in production
-* Never assume someone will hear/read your comments in your actual voice; expect worse, and write kindly.
-* Never assume someone else's comments were written in an angry voice – make an extra effort to take suggestions well.
+* Assume you will often repeat that all estimates are merely best guesses and all features require objectivity for successful triage when timelines tighten
+* Assume nobody knows what it takes to launch a feature in production until that feature is launched in production
+* Remember that positive and well-thought-out communication is essential to our process, as it creates an environment where the best ideas surface to the top
 
 By continually communicating challenges and performing project triage to ship key performance drivers, you will ensure the timeliness of your Sprints, the satisfaction of our customers, and the happiness of our developer teams.
