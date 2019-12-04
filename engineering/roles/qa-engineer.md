@@ -47,11 +47,10 @@ You are entrusted with writing and helping to define software tests that ensure 
 * Get good at performing feature triage to meet timeline estimates
 * Be ready to shift your effort, based on stakeholder and market and feedback
 
-## Assumptions
+## Culture
 
-* Assume you will have to often repeat that estimates are merely best guesses and all features require objectivity for successful triage when timelines tighten
-* Assume nobody ever knows what it takes to launch a feature in production until that feature is launched in production
-* Never assume someone will hear/read your comments in your actual voice; expect worse, and write kindly.
-* Never assume someone else's comments were written in an angry voice – make an extra effort to take suggestions well.
+* Assume you will often repeat that all estimates are merely best guesses and all features require objectivity for successful triage when timelines tighten
+* Assume nobody knows what it takes to launch a feature in production until that feature is launched in production
+* Positive and well-thought-out communication is essential to our process, as it creates an environment where the best ideas surface to the top
 
 By continually communicating challenges and performing feature triage to ship key performance drivers, you will ensure the timeliness of your Sprints, the satisfaction of our customers, and the happiness of our engineering teams.

@@ -46,11 +46,11 @@ You may personally feel like you're not getting enough done because you will oft
 * Help create engineering specifications and timeline estimates
 * Be a good triage coach – repeat often that estimates are merely best guesses and all features require objectivity for successful triage when timelines tighten
 
-## Assumptions
+## Culture
 
-* Assume you will never fully know what it takes to launch feature in production until that feature is launched in production
+* Assume you will often repeat that all estimates are merely best guesses and all features require objectivity for successful triage when timelines tighten
 * Assume coworkers have made the best decision they were able to make as you write your advice
-* Never assume someone will hear/read your critiques in your actual voice; expect worse, and write kindly.
-* Never assume someone else's comments were written in an angry voice – make an extra effort to take suggestions well.
+* Assume nobody knows what it takes to launch a feature in production until that feature is launched in production
+* Positive and well-thought-out communication is essential to our process, as it creates an environment where the best ideas surface to the top
 
 By continually communicating challenges and performing project triage to ship key performance drivers, you will ensure the timeliness of your Sprints, the satisfaction of our customers, and the happiness of our Software Engineering teams.
