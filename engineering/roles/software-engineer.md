@@ -55,7 +55,7 @@ Remain curious, unafraid to learn, and teachable; and you will improve your craf
 * Take a step back occasionally and work with Project Managers to intentionally and quickly smooth rough edges that aren't ready for client preview
 * Be ready to shift your effort, based on stakeholder and market and feedback?
 
-## Assumptions
+## Culture
 
 * Assume you will often repeat that all estimates are merely best guesses and all features require objectivity for successful triage when timelines tighten
 * Assume you will never fully know what it takes to launch feature in production until that feature is launched in production
